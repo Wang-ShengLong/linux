@@ -22,6 +22,7 @@ subdir-y += qcom
 subdir-y += realtek
 subdir-y += renesas
 subdir-y += rockchip
+subdir-y += siemens
 subdir-y += socionext
 subdir-y += sprd
 subdir-y += synaptics
